@@ -1,0 +1,10 @@
+<resources>
+    <string name="app_name">Business Card</string>
+    <string name="name">Akshita Korwar</string>
+    <string name="business">Software Engineer</string>
+    <string name="android_icon">android icon</string>
+    <string name="link">link icon</string>
+    <string name="linkedin_link">linkedin.com/in/akshitakorwar</string>
+    <string name="email_icon">email icon</string>
+    <string name="email">akshitakorwar@gmail.com</string>
+</resources>
